@@ -14,6 +14,7 @@ Common in mobile, web, IoT, and cloud apps.
 APIs are increasingly the primary attack vector in modern breaches.
 
 🧨 3. How Are APIs Attacked?
+
     Broken Authentication: Fake users get access.
     Excessive Data Exposure: API returns too much sensitive data.
     Rate Limiting Bypass: Attackers flood APIs with requests (DoS).
