@@ -34,7 +34,11 @@ Injection Attacks: Malicious code in API input.
 
 8. OWASP API Top 10 – #4: Unrestricted Resource Consumption
 
-9. OWASP API Top 10 – #5: Broken Function Level Authorization (BFLA)
+9. OWASP API Top 10 – #6: Unrestricted Access to Sensitive Business Flows
+
+10. 
+
+11. OWASP API Top 10 – #5: Broken Function Level Authorization (BFLA)
 
 
 
