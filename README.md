@@ -30,5 +30,9 @@ Injection Attacks: Malicious code in API input.
 
 6. OWASP API Top 10 – #2: Broken Authentication
 
-7.OWASP API Top 10 – #3: Broken Object Property Level Authorization (BOPLA) 
+7.OWASP API Top 10 – #3: Broken Object Property Level Authorization (BOPLA)
+
+8. OWASP API Top 10 – #4: Unrestricted Resource Consumption
+
+
 
