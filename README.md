@@ -26,3 +26,5 @@ Injection Attacks: Malicious code in API input.
 
 4. Introduction to OWASP API Security
 
+5. OWASP API Top 10 – #1: Broken Object Level Authorization (BOLA)
+
