@@ -40,5 +40,7 @@ Injection Attacks: Malicious code in API input.
 
 11. OWASP API Top 10 – #7: Server Side Request Forgery (SSRF)
 
+12. OWASP API Top 10 – #8: Security Misconfiguration
+
 
 
