@@ -44,5 +44,7 @@ Injection Attacks: Malicious code in API input.
 
 13. OWASP API Top 10 – #9: Improper Inventory Management
 
+14. OWASP API Top 10 – #10: Unsafe Consumption of APIs
+
 
 
