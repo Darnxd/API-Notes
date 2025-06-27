@@ -28,3 +28,5 @@ Injection Attacks: Malicious code in API input.
 
 5. OWASP API Top 10 – #1: Broken Object Level Authorization (BOLA)
 
+6. OWASP API Top 10 – #2: Broken Authentication
+
