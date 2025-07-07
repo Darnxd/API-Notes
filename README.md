@@ -9,7 +9,7 @@
 
 
 
-APIs are increasingly the primary attack vector in modern breaches.
+
 
 🧨 3. How Are APIs Attacked?
 Broken Authentication: Fake users get access. 
