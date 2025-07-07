@@ -18,7 +18,7 @@
 
 
 
-Injection Attacks: Malicious code in API input.
+
 
 4. Introduction to OWASP API Security
 
