@@ -12,7 +12,7 @@
 
 
 🧨 3. How Are APIs Attacked?
-Broken Authentication: Fake users get access. 
+
     
 Excessive Data Exposure: API returns too much sensitive data.
     
