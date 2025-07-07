@@ -16,7 +16,7 @@
     
 
 
-Mass Assignment: Unauthorized fields manipulated via JSON/XML.
+
 
 Injection Attacks: Malicious code in API input.
 
