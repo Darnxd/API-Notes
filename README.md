@@ -4,7 +4,6 @@
 🔐 1. What is API Security?
 
 
-API Security: Techniques to prevent unauthorized access, abuse, or attacks on APIs.
 
 ⚠️ 2. Why is API Security Important?
 APIs expose critical data and backend systems.
