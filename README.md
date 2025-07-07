@@ -6,7 +6,7 @@
 
 
 ⚠️ 2. Why is API Security Important?
-APIs expose critical data and backend systems.
+
 
 Common in mobile, web, IoT, and cloud apps.
 
