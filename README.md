@@ -5,13 +5,13 @@
 
 
 
-⚠️ 2. Why is API Security Important?
+2. Why is API Security Important?
 
 
 
 
 
-🧨 3. How Are APIs Attacked?
+ 3. How Are APIs Attacked?
 
     
 
