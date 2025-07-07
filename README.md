@@ -15,7 +15,6 @@
 
     
 
-Rate Limiting Bypass: Attackers flood APIs with requests (DoS).
 
 Mass Assignment: Unauthorized fields manipulated via JSON/XML.
 
