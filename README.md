@@ -8,7 +8,6 @@
 ⚠️ 2. Why is API Security Important?
 
 
-Common in mobile, web, IoT, and cloud apps.
 
 APIs are increasingly the primary attack vector in modern breaches.
 
