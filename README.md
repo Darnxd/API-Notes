@@ -14,8 +14,7 @@
 🧨 3. How Are APIs Attacked?
 
     
-Excessive Data Exposure: API returns too much sensitive data.
-    
+
 Rate Limiting Bypass: Attackers flood APIs with requests (DoS).
 
 Mass Assignment: Unauthorized fields manipulated via JSON/XML.
